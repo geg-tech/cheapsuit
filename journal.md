@@ -33,3 +33,12 @@ I wanted to maintain a hardcore-cyberpunk aesthetic, but also incorporate some p
 but anyways i should work on the actual pcb <br/>
 
 I'll be using EasyEDA for this project, since KiCad doesn't have many of the symbols/footprints of the components in the guide.
+I followed the guide, but I swapped out the yellow 2V LEDs with [red ones](https://jlcpcb.com/partdetail/Hubei_KENTOElec-E6C0805UR/C2295), as well as adding 3 extra LEDs in parallel, resulting in 4 LEDs. <br/>
+
+<img width="349" height="584" alt="image" src="https://github.com/user-attachments/assets/2a3404e7-d8ac-43ff-9109-668b2e801660" /> <br/>
+
+I read on the NFC's datasheet that it can ideally output 2V and 5mA of current. The datasheets for the red LEDs were all in Chinese, but I read online that LEDs this size also work at about 1-2mA, so by Kirchhoff's Current Law it should be good (?? still unsure) <br/>
+
+<img width="1054" height="585" alt="image" src="https://github.com/user-attachments/assets/5e964b00-5fa9-4ae4-9164-3a22a1981b13" /> <br/>
+
+### hours spent: 2 hours planning and making schematic
