@@ -42,3 +42,5 @@ I read on the NFC's datasheet that it can ideally output 2V and 5mA of current. 
 <img width="1054" height="585" alt="image" src="https://github.com/user-attachments/assets/5e964b00-5fa9-4ae4-9164-3a22a1981b13" /> <br/>
 
 ### hours spent: 2 hours planning and making schematic
+
+## 7/11/
