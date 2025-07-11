@@ -30,4 +30,6 @@ From there, I started to brainstorm some more about the design, adding comments 
 
 I wanted to maintain a hardcore-cyberpunk aesthetic, but also incorporate some poker table or casino vibes with it, maybe using art-deco themes due to their similarity with cyberpunk of having sharp and defined lines. <br/>
 
+but anyways i should work on the actual pcb <br/>
 
+I'll be using EasyEDA for this project, since KiCad doesn't have many of the symbols/footprints of the components in the guide.
