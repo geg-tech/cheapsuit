@@ -43,7 +43,7 @@ I read on the NFC's datasheet that it can ideally output 2V and 5mA of current. 
 
 ### hours spent: 2 hours planning and making schematic
 
-## 7/11/25
+## 7/11/25 - Importing to KiCad and drawing!!!!!!!
 seven eleven day woohoo <br/>
 
 Today I moved the PCB to KiCad since I'm more experienced in it (easyeda was also tweaking out on my browser). I imported all of the symbols and footprints to KiCad, so everything should also be the same. <br/>
