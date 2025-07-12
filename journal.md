@@ -43,4 +43,46 @@ I read on the NFC's datasheet that it can ideally output 2V and 5mA of current. 
 
 ### hours spent: 2 hours planning and making schematic
 
-## 7/11/
+## 7/11/25
+seven eleven day woohoo <br/>
+
+Today I moved the PCB to KiCad since I'm more experienced in it (easyeda was also tweaking out on my browser). I imported all of the symbols and footprints to KiCad, so everything should also be the same. <br/>
+
+I then asked whether or not my idea of having the 4 LEDs in parallel would work in *#electronics*, and was told that the LEDs would draw way too much current from the NFC chip, which would either leave me with very dim LEDs or damaging the NFC chip, so I just changed it to one LED <br/>
+> very sad i know
+
+<img width="1071" height="629" alt="image" src="https://github.com/user-attachments/assets/464ac35f-05a7-4176-9164-54c6c0051e9a" /> <br/>
+
+Once I had the footprints imported, I moved into the PCB editor and routed the components. <br/>
+
+<img width="899" height="616" alt="image" src="https://github.com/user-attachments/assets/d30efe3c-370b-46c4-9811-9e0846fb751f" />
+
+After that, it was time to actuall design the card in Figma. <br/>
+I took a screenshot of the PCB in orthographic mode and ported it to Figma, making a frame around the outline of the screenshot to hold the drawings in. I used the common card motif of having the rank and suit of the card in the corners, but instead of using a rank and suit, I used the Highway star and Hack Club's H logo, modified to fit the aesthetic of Undercity. <br/>
+
+<img width="573" height="515" alt="image" src="https://github.com/user-attachments/assets/5034da1b-bf6e-4265-8f96-5033664bcccc" /> <br/>
+> i spent a lot of time undercity-ifying the logo lol
+
+Once I was happy with the corner, I worked on the center and suits. Using Figma's Stroke features, I made the checkered pattern found on poker chips with a couple circles and drew the suits with the Pen tool. I also made a small little square cutout to show the NFC chip that was going to be soldered on, which was specifically placed in the middle of the PCB. <br/>
+
+<img width="938" height="1140" alt="image" src="https://github.com/user-attachments/assets/69aa95b9-9c56-4c85-9623-2eea4f8a246f" /> <br/>
+
+The other corners of the face of the card looked a bit empty compared to the rest of the board, so I made a trim around the card, as well as adding cyberpunk-ish details to fill up the space and to add to the theme of the PCB. <br/>
+To add variety, I made one side filled with white and the other an outline, which also nods at the corresponding suits they are near
+> the white fill is next to the red/light suits (hearts and diamonds), the black fill is next to the dark/black suits (clubs and spades)
+
+<img width="361" height="509" alt="image" src="https://github.com/user-attachments/assets/b0f287d4-0979-405a-9ac7-03a94967d3b1" /> <br/>
+
+Once I was happy with the face, I quickly imported it into KiCad, exporting the suits as a separate file to make them shiny by making them exposed copper instead of just silkscreen. <br/>
+After that, I started work on the back. I kept the cyberpunk theming with the trims, making two "tower" shapes with white and black fills, as well as adding extra details like stars or triangles to fill up the space. <br/>
+I also added a small little via to serve as a possible lanyard hole for the extras :> <br/>
+
+<img width="376" height="543" alt="image" src="https://github.com/user-attachments/assets/36c84ac8-72d9-4b39-9670-7177b29a7002" /> <br/>
+
+anyways im tired <br/>
+### time spent: 4 hours in KiCad and drawing
+
+
+
+
+
