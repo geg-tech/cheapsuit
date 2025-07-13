@@ -87,7 +87,7 @@ Today I spent the night drawing out the back side of the playing card. I didn't 
 
 I decided to have some sort of circle in the middle for consistency and symmetry, and ended up making three different designs for the back (called *Moon*, *Compass*, and *Bicycle*) <br/>
 
-<img width="1000" height="261" alt="image" src="https://github.com/user-attachments/assets/38dec45a-edde-437c-9403-73c13a54304e" /> <br/>
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/38dec45a-edde-437c-9403-73c13a54304e" /> <br/>
 
 * The *Moon* was traced off an image of the moon, with lines radiating off like light. To fill the rest of the space, I used the Highway rainbow color thing from the magazine and pasted it in with the fill set to black and the outline to white.
 * The *Compass* was made from the Highway star in the middle with a slash going through it, splitting it into black and white and north and south being marked. I was shooting for a "compass to Highway/Undercity" type theme, so I made the center look like a compass, with the rest inspired off a *literal Geometry Dash* level called *Azimuth* (go check it out it looks really pretty)
