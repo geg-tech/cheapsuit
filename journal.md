@@ -96,5 +96,9 @@ I decided to have some sort of circle in the middle for consistency and symmetry
 <img width="1280" height="720" alt="azimuth that geometry dash level" src="https://github.com/user-attachments/assets/97cbfbe7-a536-449b-8dfd-fc3f99336e37" /> <br/>
 <img width="500" height="2000" alt="image" src="https://github.com/user-attachments/assets/2d5f674b-8645-4aa9-997d-e4882665cbc6" /> <br/>
 
+I'm still unsure on what I'll pick for the final product, but I'm currently gravitating towards the bicycle design rn <br/>
 
+There are also a bunch of ideas I have for this card, such as possibly adding 5mm copper pads to solder enamel pin posts (those poky bits) SMD style on to mount them on bags and such but that'll come later <br/>
+
+### time spent: 2 hours drawing
 
