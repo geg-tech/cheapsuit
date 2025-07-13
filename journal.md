@@ -82,7 +82,19 @@ I also added a small little via to serve as a possible lanyard hole for the extr
 anyways im tired <br/>
 ### time spent: 4 hours in KiCad and drawing
 
+## 7/12/25 - MORE DRAWING!!!!! WOOO!!!!!!!
+Today I spent the night drawing out the back side of the playing card. I didn't have as much of a vision for the back as the front (two general cyberpunk-ish towers vs 4 suits around the center), so I went back and forth spitballing ideas in Figma. <br/>
 
+I decided to have some sort of circle in the middle for consistency and symmetry, and ended up making three different designs for the back (called *Moon*, *Compass*, and *Bicycle*) <br/>
+
+<img width="1000" height="261" alt="image" src="https://github.com/user-attachments/assets/38dec45a-edde-437c-9403-73c13a54304e" /> <br/>
+
+* The *Moon* was traced off an image of the moon, with lines radiating off like light. To fill the rest of the space, I used the Highway rainbow color thing from the magazine and pasted it in with the fill set to black and the outline to white.
+* The *Compass* was made from the Highway star in the middle with a slash going through it, splitting it into black and white and north and south being marked. I was shooting for a "compass to Highway/Undercity" type theme, so I made the center look like a compass, with the rest inspired off a *literal Geometry Dash* level called *Azimuth* (go check it out it looks really pretty)
+* The *Bicycle* was inspired largely by Bicycle playing cards, most notably having the three circles stacked on top of each other and intricate designs in the circles.
+
+<img width="1280" height="720" alt="azimuth that geometry dash level" src="https://github.com/user-attachments/assets/97cbfbe7-a536-449b-8dfd-fc3f99336e37" /> <br/>
+<img width="500" height="2000" alt="image" src="https://github.com/user-attachments/assets/2d5f674b-8645-4aa9-997d-e4882665cbc6" /> <br/>
 
 
 
