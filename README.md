@@ -33,4 +33,23 @@ putting this here since the firmware is literally just flashing the NFC chip and
 Command: `A2:03:E1:10:6D:00,A2:04:03:04:D8:00,A2:05:00:00:FE:00` <br/>
 Purpose: Will link to my Instagram account (@hunk.egg btw :3)
 
-> *Raising up the stakes, GET 'EM FOLDING LIKE CHEAP SUITS*
+## extras/inspirations
+
+*inspirations*:
+* **Cyberpunk 2077** - Main inspiration behind the cyberpunk/hardcore tech theming
+* [**Cheap Suits**](https://youtu.be/87i0RargAcA) by *mekaloton* - Main inspiration for the whole suits/gambling theme; inspired the *Moon* alternate back side
+* **Balatro** - Also a main inspiration for the gambling/suits theme; balatro joker poker
+* **Bicycle Playing Cards** - Main inspiration behind the chosen back side design
+* **Highway/Undercity/Hack Club** - (oddly enough) The original source of the cyberpunk aesthetic I wanted with this card; inspired much of the art for the suits, the Undercitified Hack Club logo, and the Highway Stars
+
+*fun facts*:
+* I drew two alternate back sides to the playing card, being the *Moon* and the *Compass*!
+* ^ The *Moon* was inspired off of the background of [Cheap Suits](https://youtu.be/87i0RargAcA) and traditional tarot cards
+* ^^ The *Compass* had an original theming for being a *compass* for Highway (get it)
+
+<img width="686" height="221" alt="image" src="https://github.com/user-attachments/assets/53085ebf-13f4-49dc-9733-d5c5df08aaf6" /> <br/>
+
+* This project initially had the name of *The Hack* in my head, being named after the Balatro joker of the same name and also matching with *Hack* Club
+* ^ i then found out that this was not a poker/cards term, but instead is slang for cliche and unoriginal jokes
+
+* I hid the logos for Highway and Undercity on the back side of the card, as well as the Hack Club flag :3 
