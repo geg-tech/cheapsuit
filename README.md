@@ -6,6 +6,8 @@ A custom Hacker Card in the profile and style of a Bicycle Playing Card.
 
 I've had the idea of a Hack Club playing card for a *long while* (ever since my BakeBuild submission back in April), and with some extra time on my hands and inpsiration from other people submitting hacker cards, I decided to revamp this idea into a hacker card PCB with fully custom art! <br/>
 
+this hacker card also doubles as a shameless plug to my insta account lmao
+
 ## PCB
 ### Schematic
 <img width="441" height="592" alt="image" src="https://github.com/user-attachments/assets/4aa89a34-f79d-4bcf-83b9-2ba9d751db76" /> <br/>
