@@ -102,3 +102,19 @@ There are also a bunch of ideas I have for this card, such as possibly adding 5m
 
 ### time spent: 2 hours drawing
 
+## 7/13/25 - last time drawing then github stuff
+i'll lock in today I PROMISE 🙏 :sob: <br/>
+
+Today I asked more people on which backside I should use for my playing card and was met with more mixed opinions lmao <br/>
+Many people on Slack (and myself) prefer the bicycle style, while my IRL friends on discord preferred the moon and compass style. I *could* try panelizing the cards into one of each design, but that could drive up costs by a ton. <br/>
+
+In the meantime, I'm settling on the bicycle design :3 <br/>
+
+<img width="520" height="610" alt="image" src="https://github.com/user-attachments/assets/50beb5de-7d81-45ed-b10b-1f260d801da1" /> <br/>
+
+I also added a 5mm copper pad to hold a pin post (that poky thing i said yesterday) in the bottom corner. To help secure the card with pins, I can repurpose the lanyard hole to hole a small 3D printed enclosure for another pin post, creating two pin posts for the card to hold on by. <br/>
+> here's a shitty sketch on what i'm talkin about
+
+<img width="1080" height="430" alt="image" src="https://github.com/user-attachments/assets/a2799bda-cc09-4453-84eb-0596ad4ab928" /> <br/>
+
+
