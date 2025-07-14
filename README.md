@@ -41,6 +41,7 @@ Purpose: Will link to my Instagram account (@hunk.egg btw :3)
 * **Balatro** - Also a main inspiration for the gambling/suits theme
 * **Bicycle Playing Cards** - Main inspiration behind the chosen back side design
 * **Highway/Undercity/Hack Club** - (oddly enough) The original source of the cyberpunk aesthetic I wanted with this card; inspired much of the art for the suits, the Undercitified Hack Club logo, and the Highway Stars
+* [**Azimuth**](https://www.youtube.com/watch?v=hgSNrjHIIF0) by Knots (YES THIS IS A GEOMETRY DASH LEVEL 🙏:sob:) - Main inspiration behind the *Compass* alternate back side
 * **my calculus teacher** - he got me addicted to poker
 
 ***fun facts***:
