@@ -21,7 +21,7 @@ I've had the idea of a Hack Club playing card for a *long while* (ever since my 
 | 25X48MM_NFC_ANTENNA | 1 | $0.00 (copper layers)| receives power and transmits 
 | CL10B224KA8NNNC | 1 | $0.0270 | Assists the power harvester system |
 | E6C0805UR | 1 | $0.0050 | 47 ohm resistor to limit power leading to the LED | 
-| KT-0805R | 1 | $0.2100 | 2V red LED that lights up |
+| KT-0805Y | 1 | $0.0625 | 2V red LED that lights up |
 | | | |
 | PCB | 5 | $2.00 | PCB that holds/wires components together |
 | PCBA Total | idk | $21.07 | all the other stuff that comes with PCBA; setup fee, stencil, components, etc. (why is it so damn expensive 🥀) |
