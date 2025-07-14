@@ -4,8 +4,9 @@ author: "egg_splats"
 description: "A Hacker Card in the style and profile of a playing card"
 created_at: "2025-07-10"
 ---
-
-teto <br/>
+balala joker poker
+## time spent: 9 hours
+> thats a lot of drawing!
 
 ## 7/10/25 - cookin a card like no other
 I had this concept cookin' for a while (since BakeBuild), and after seeing all of the Hacker Card PCBs being submitted recently, I was inspired to give my own take on the [guide](https://jams.hackclub.com/jam/hacker-card) with all of the new experience I've gained from my past hardware projects. <br/>
@@ -128,3 +129,9 @@ anyways here's the final pictures <br/>
 <img width="493" height="591" alt="image" src="https://github.com/user-attachments/assets/28d92f0c-e426-4fca-b83b-9a9f73aad261" />
 
 ### time spent: 2 hour drawing, adding copper details, and finalizing the card
+
+## 7/14/25 - cant sleep so im finishing this github
+yeah i finished the github (its 3am i really cant be bothered to do ts rn 💔) <br/>
+might render this stuff later idk
+
+### time spent: 1 hour
