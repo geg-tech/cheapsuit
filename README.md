@@ -26,7 +26,7 @@ I've had the idea of a Hack Club playing card for a *long while* (ever since my 
 | PCB | 5 | $2.00 | PCB that holds/wires components together |
 | PCBA Total | idk | $15.12 | all the other stuff that comes with PCBA; setup fee, stencil, components, etc. (why is it so damn expensive 🥀) |
 | Shipping: $9.97 | Tax: $1.79 | | |
-|**Total: $29.38**| ($9.38 with the jlc coupon) | | |
+|**Total: $28.85**| ($9.38 with the jlc coupon) | | |
 
 ## Firmware
 putting this here since the firmware is literally just flashing the NFC chip and uploading with an app <br/>
