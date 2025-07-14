@@ -1,0 +1,1625 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4108c05a-4f45-473d-97d8-857b8afd29a1")
+	(paper "A4")
+	(lib_symbols
+		(symbol "hackercard:0603WAF470JT5E"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R?"
+				(at 0 4.826 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0603WAF470JT5E"
+				(at 0 2.794 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "0603WAF470JT5E"
+				(at 0 -6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "UNI-ROYAL(厚声)"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part" "C23182"
+				(at -3.302 -4.572 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at 3.556 -4.572 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0603WAF470JT5E_0_0"
+				(rectangle
+					(start -2.54 1.016)
+					(end 2.54 -1.016)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "hackercard:25X48MM_NFC_ANTENNA"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "A1"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "25X48MM_NFC_ANTENNA"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "25X48MM_NFC_ANTENNA_0_1"
+				(arc
+					(start -5.08 0)
+					(mid -3.81 1.27)
+					(end -2.54 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 0)
+					(mid -1.27 1.27)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 1.27 1.27)
+					(end 2.54 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 0)
+					(mid 3.81 1.27)
+					(end 5.08 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "25X48MM_NFC_ANTENNA_1_0"
+				(pin input line
+					(at -7.62 0 0)
+					(length 2.4892)
+					(name "P$1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "P$1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 7.62 0 180)
+					(length 2.4892)
+					(name "P$2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "P$2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "hackercard:CL10B224KA8NNNC"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C?"
+				(at 0 5.334 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CL10B224KA8NNNC"
+				(at 0 3.302 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "CL10B224KA8NNNC"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "SAMSUNG(三星)"
+				(at 0 -3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part" "C21120"
+				(at -3.048 -5.588 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at 3.556 -5.588 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CL10B224KA8NNNC_0_0"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 2.032) (xy -0.508 -2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 2.032) (xy 0.508 -2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "hackercard:E6C0805UR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED1"
+				(at 5.334 7.112 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "E6C0805UR"
+				(at 5.334 4.572 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "KT-0805R"
+				(at 0 -3.048 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "KENTO"
+				(at -3.556 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part" "C2295"
+				(at 3.556 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at -0.254 -7.112 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "E6C0805UR_0_0"
+				(polyline
+					(pts
+						(xy -3.81 3.556) (xy -2.794 3.048) (xy -3.302 2.54) (xy -3.81 3.556)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.794 4.572) (xy -1.778 4.064) (xy -2.286 3.556) (xy -2.794 4.572)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 1.778) (xy -3.81 3.556)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 2.794) (xy -2.794 4.572)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+			)
+			(symbol "E6C0805UR_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "hackercard:NT3H2111W0FHKH"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 6.096 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "NT3H2111W0FHKH"
+				(at 0 9.144 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "NT3H2111W0FHKH"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "NXP(恩智浦)"
+				(at 0 -7.874 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part" "C710403"
+				(at 0 -12.192 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NT3H2111W0FHKH_0_0"
+				(rectangle
+					(start -7.62 7.62)
+					(end 7.62 -6.35)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -6.35 6.35)
+					(radius 0.254)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "NT3H2111W0FHKH_1_0"
+				(pin input line
+					(at -10.16 3.81 0)
+					(length 2.54)
+					(name "LA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 1.27 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -1.27 0)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -3.81 0)
+					(length 2.54)
+					(name "FD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 3.81 180)
+					(length 2.54)
+					(name "LB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 1.27 180)
+					(length 2.54)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -1.27 180)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -3.81 180)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 168.91 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "697ffe30-fe51-4422-a78e-a9287e032f48")
+	)
+	(junction
+		(at 199.39 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7bb22cf9-79dc-4158-980f-332bff1e8291")
+	)
+	(junction
+		(at 194.31 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc1b844e-4bc8-43ef-a85f-25d0edc1e9ea")
+	)
+	(wire
+		(pts
+			(xy 198.12 123.19) (xy 201.93 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1559f79f-f853-41e4-a752-d1b63ed5fe66")
+	)
+	(wire
+		(pts
+			(xy 168.91 106.68) (xy 168.91 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27cf5925-fe77-4a7f-9572-5c80eec61eac")
+	)
+	(wire
+		(pts
+			(xy 180.34 106.68) (xy 168.91 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "341e1a12-7ad2-4259-b386-5c948fc4d8bf")
+	)
+	(wire
+		(pts
+			(xy 191.77 74.93) (xy 199.39 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a09e756-df3d-47cd-b121-d00a47660833")
+	)
+	(wire
+		(pts
+			(xy 199.39 92.71) (xy 199.39 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c8fd11e-ef4c-40ee-8c72-e7860c9da2ba")
+	)
+	(wire
+		(pts
+			(xy 180.34 123.19) (xy 187.96 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e308d94-e623-446a-933f-46d9541969dd")
+	)
+	(wire
+		(pts
+			(xy 166.37 95.25) (xy 168.91 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59b8d7bf-3f2a-4d0c-aa8c-404dab56bc3d")
+	)
+	(wire
+		(pts
+			(xy 168.91 92.71) (xy 173.99 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6271fdd0-448c-4707-85f1-7a154d5d6cfc")
+	)
+	(wire
+		(pts
+			(xy 187.96 106.68) (xy 199.39 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71c0b608-ae51-457f-a817-08282345eef3")
+	)
+	(wire
+		(pts
+			(xy 201.93 123.19) (xy 201.93 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6f935e4-ecb7-4b93-bcf1-85d76b74175e")
+	)
+	(wire
+		(pts
+			(xy 199.39 95.25) (xy 201.93 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8fc8610-9fcc-4d2e-a9d8-2512921df619")
+	)
+	(wire
+		(pts
+			(xy 194.31 95.25) (xy 194.31 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a999206d-d4f2-4097-a414-da9b0dbf4247")
+	)
+	(wire
+		(pts
+			(xy 168.91 95.25) (xy 173.99 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa8bfea3-71d4-407d-a811-17d9492b47bf")
+	)
+	(wire
+		(pts
+			(xy 166.37 123.19) (xy 166.37 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdc72b44-2adf-4c08-b37a-a915f9ac824b")
+	)
+	(wire
+		(pts
+			(xy 199.39 95.25) (xy 199.39 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce7eeed3-4b96-410d-bc9e-1b24669253fe")
+	)
+	(wire
+		(pts
+			(xy 170.18 123.19) (xy 166.37 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d920d8df-9af3-4bfc-992f-0826669aadcb")
+	)
+	(wire
+		(pts
+			(xy 194.31 95.25) (xy 199.39 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e51cefeb-0f49-4200-be05-33bbf433871f")
+	)
+	(wire
+		(pts
+			(xy 176.53 74.93) (xy 168.91 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e85cfe8c-3047-43ed-ad64-744defc0b4e3")
+	)
+	(wire
+		(pts
+			(xy 194.31 92.71) (xy 199.39 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2a9904f-58d0-4cfb-bb68-b25879960ffe")
+	)
+	(wire
+		(pts
+			(xy 168.91 74.93) (xy 168.91 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe6079a3-f0ae-4662-859e-91b540df5d7b")
+	)
+	(symbol
+		(lib_id "hackercard:CL10B224KA8NNNC")
+		(at 184.15 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0acc4fec-d2bf-4587-9089-21df2c64c823")
+		(property "Reference" "C1"
+			(at 184.15 110.236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL10B224KA8NNNC"
+			(at 184.15 112.776 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "cheapsuits:C0603 (capacitor)"
+			(at 184.15 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "CL10B224KA8NNNC"
+			(at 184.15 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SAMSUNG(三星)"
+			(at 184.15 110.236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C21120"
+			(at 181.102 112.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 187.706 112.268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ba154fb1-585f-42e1-aa33-589e00c720c6")
+		)
+		(pin "2"
+			(uuid "cb2d7d52-2cd5-4a3f-ad7f-744ef4fc8fb6")
+		)
+		(instances
+			(project ""
+				(path "/4108c05a-4f45-473d-97d8-857b8afd29a1"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "hackercard:NT3H2111W0FHKH")
+		(at 184.15 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "23680408-8a5f-4e97-9a7a-baa0f7a7427e")
+		(property "Reference" "U1"
+			(at 184.15 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NT3H2111W0FHKH"
+			(at 184.15 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "cheapsuits:XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH (NFC)"
+			(at 184.15 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "NT3H2111W0FHKH"
+			(at 184.15 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "NXP(恩智浦)"
+			(at 184.15 104.394 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C710403"
+			(at 184.15 108.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 184.15 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "ee63fa8c-b55a-405a-b0b8-60f0abe73c6c")
+		)
+		(pin "2"
+			(uuid "21748e16-8ba9-413e-8071-8cb449d9f6ca")
+		)
+		(pin "1"
+			(uuid "f5951a68-3f1c-4741-90bd-ba9001a649aa")
+		)
+		(pin "7"
+			(uuid "c68f40b9-e717-4c29-a784-1022df3f3834")
+		)
+		(pin "6"
+			(uuid "e429f044-284f-4568-88ba-b2cb6e9cb998")
+		)
+		(pin "8"
+			(uuid "155d5bf8-479b-436d-867c-0f5e82971e2e")
+		)
+		(pin "4"
+			(uuid "69dcbc9f-23b2-44c6-90e2-6682dd07e236")
+		)
+		(pin "3"
+			(uuid "48dcf939-bda8-4eb0-9ae4-af28a25784f1")
+		)
+		(instances
+			(project ""
+				(path "/4108c05a-4f45-473d-97d8-857b8afd29a1"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "hackercard:25X48MM_NFC_ANTENNA")
+		(at 184.15 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8ea9dd37-b3df-46f3-b0a4-bda65e0e2eaa")
+		(property "Reference" "A1"
+			(at 184.15 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "25X48MM_NFC_ANTENNA"
+			(at 184.15 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "cheapsuits:25X48MM_NFC_ANTENNA (antenna)"
+			(at 184.15 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "P$1"
+			(uuid "dd17d93d-eeaa-49dc-8f5c-5dacbf5f4bb2")
+		)
+		(pin "P$2"
+			(uuid "9e8e0a9e-6b13-4b63-a162-500a5a623f87")
+		)
+		(instances
+			(project ""
+				(path "/4108c05a-4f45-473d-97d8-857b8afd29a1"
+					(reference "A1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "hackercard:0603WAF470JT5E")
+		(at 193.04 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cf5d6bc1-a46a-4025-a28c-eefd55eaad39")
+		(property "Reference" "R1"
+			(at 193.04 126.238 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0603WAF470JT5E"
+			(at 193.04 128.778 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "cheapsuits:R0603 (resistor)"
+			(at 193.04 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 193.04 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "0603WAF470JT5E"
+			(at 193.04 130.048 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(厚声)"
+			(at 193.04 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C23182"
+			(at 189.738 127.762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 196.596 127.762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b725236b-2709-4502-ad3d-a3787e73d19f")
+		)
+		(pin "2"
+			(uuid "725edd08-51cc-416c-aea2-c1025c201b2a")
+		)
+		(instances
+			(project ""
+				(path "/4108c05a-4f45-473d-97d8-857b8afd29a1"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "hackercard:E6C0805UR")
+		(at 175.26 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e9d138ba-4023-40a3-9605-d96c1ef0b728")
+		(property "Reference" "LED1"
+			(at 180.594 116.078 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "E6C0805UR"
+			(at 180.594 118.618 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "cheapsuits:LED0805-R-RD (LED)"
+			(at 175.26 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 175.26 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "KT-0805R"
+			(at 175.26 126.238 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KENTO"
+			(at 171.704 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C2295"
+			(at 178.816 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 175.006 130.302 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3ffbfbec-9f6a-46f9-bb4c-d0f73c521853")
+		)
+		(pin "1"
+			(uuid "dc53ee1d-ff3d-4ba9-b264-b11bd2669ec8")
+		)
+		(instances
+			(project ""
+				(path "/4108c05a-4f45-473d-97d8-857b8afd29a1"
+					(reference "LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
