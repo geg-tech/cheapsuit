@@ -1,8 +1,8 @@
 # *CHEAP SUITS*
 A custom Hacker Card in the profile and style of a Bicycle Playing Card.
 
-![front](https://github.com/user-attachments/assets/0435352b-7ea9-4ebd-b27d-749e123bf929) <br/>
-![back](https://github.com/user-attachments/assets/9e067e3f-5ed4-44a9-9071-4d30ffb52463) <br/>
+<img width="694" height="606" alt="image" src="https://github.com/user-attachments/assets/1941bf6b-a142-4872-ade2-d636f1a3abef" /> <br/>
+<img width="605" height="604" alt="image" src="https://github.com/user-attachments/assets/02ce9a13-2e47-46b1-a692-6365b5d40ca5" /> <br/>
 
 I've had the idea of a Hack Club playing card for a *long while* (ever since my BakeBuild submission back in April), and with some extra time on my hands and inpsiration from other people submitting hacker cards, I decided to revamp this idea into a hacker card PCB with fully custom art! <br/>
 
@@ -12,8 +12,8 @@ I've had the idea of a Hack Club playing card for a *long while* (ever since my 
 
 ### PCB 
 <img width="479" height="603" alt="image" src="https://github.com/user-attachments/assets/72e60ceb-b96e-43ab-a9e2-0f8beecbfb0a" /> <br/>
-![front](https://github.com/user-attachments/assets/0435352b-7ea9-4ebd-b27d-749e123bf929) <br/>
-![back](https://github.com/user-attachments/assets/9e067e3f-5ed4-44a9-9071-4d30ffb52463) <br/>
+<img width="694" height="606" alt="image" src="https://github.com/user-attachments/assets/1941bf6b-a142-4872-ade2-d636f1a3abef" /> <br/>
+<img width="605" height="604" alt="image" src="https://github.com/user-attachments/assets/02ce9a13-2e47-46b1-a692-6365b5d40ca5" /> <br/>
 
 ## BOM
 | part | quantity | price | purpose/name |
@@ -37,10 +37,11 @@ Purpose: Will link to my Instagram account (@hunk.egg btw :3)
 
 *inspirations*:
 * **Cyberpunk 2077** - Main inspiration behind the cyberpunk/hardcore tech theming
-* [**Cheap Suits**](https://youtu.be/87i0RargAcA) by *mekaloton* - Main inspiration for the whole suits/gambling theme; inspired the *Moon* alternate back side
-* **Balatro** - Also a main inspiration for the gambling/suits theme; balatro joker poker
+* [**Cheap Suits**](https://youtu.be/87i0RargAcA) by *mekaloton* - Main inspiration for the whole suits/gambling theme; inspired the *Moon* alternate back side; this entire project was named after this song lmao
+* **Balatro** - Also a main inspiration for the gambling/suits theme
 * **Bicycle Playing Cards** - Main inspiration behind the chosen back side design
 * **Highway/Undercity/Hack Club** - (oddly enough) The original source of the cyberpunk aesthetic I wanted with this card; inspired much of the art for the suits, the Undercitified Hack Club logo, and the Highway Stars
+* **my calculus teacher** - he got me addicted to poker
 
 *fun facts*:
 * I drew two alternate back sides to the playing card, being the *Moon* and the *Compass*!
@@ -53,3 +54,7 @@ Purpose: Will link to my Instagram account (@hunk.egg btw :3)
 * ^ i then found out that this was not a poker/cards term, but instead is slang for cliche and unoriginal jokes
 
 * I hid the logos for Highway and Undercity on the back side of the card, as well as the Hack Club flag :3 
+
+
+
+> ...raising up the stakes, GET 'EM FOLDING LIKE CHEAP SUITS!
