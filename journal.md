@@ -117,4 +117,14 @@ I also added a 5mm copper pad to hold a pin post (that poky thing i said yesterd
 
 <img width="1080" height="430" alt="image" src="https://github.com/user-attachments/assets/a2799bda-cc09-4453-84eb-0596ad4ab928" /> <br/>
 
+To add texture, I imported pictures of the four suits from Google into KiCad as copper, revolving them around the center using the *Array* function (command + T on mac). I also considered the Highway and Undercity logos, but I worry that it'll be too small for JLCPCB to manufacture as copper graphics. <br/>
+
+<img width="542" height="355" alt="image" src="https://github.com/user-attachments/assets/632bbe74-4843-4f49-a0b6-0897fce2a0a1" /> <br/>
+<img width="895" height="562" alt="image" src="https://github.com/user-attachments/assets/bf95f4ee-9d5d-4f77-91cb-8d5a6e97f870" /> <br/>
+
+anyways here's the final pictures <br/>
+
+<img width="574" height="592" alt="image" src="https://github.com/user-attachments/assets/11ccdfe9-7c66-4938-b542-31ec4582f9cc" />
+<img width="493" height="591" alt="image" src="https://github.com/user-attachments/assets/28d92f0c-e426-4fca-b83b-9a9f73aad261" />
+
 
