@@ -35,7 +35,7 @@ Purpose: Will link to my Instagram account (@hunk.egg btw :3)
 
 ## extras/inspirations
 
-*inspirations*:
+***inspirations***:
 * **Cyberpunk 2077** - Main inspiration behind the cyberpunk/hardcore tech theming
 * [**Cheap Suits**](https://youtu.be/87i0RargAcA) by *mekaloton* - Main inspiration for the whole suits/gambling theme; inspired the *Moon* alternate back side; this entire project was named after this song lmao
 * **Balatro** - Also a main inspiration for the gambling/suits theme
@@ -43,7 +43,7 @@ Purpose: Will link to my Instagram account (@hunk.egg btw :3)
 * **Highway/Undercity/Hack Club** - (oddly enough) The original source of the cyberpunk aesthetic I wanted with this card; inspired much of the art for the suits, the Undercitified Hack Club logo, and the Highway Stars
 * **my calculus teacher** - he got me addicted to poker
 
-*fun facts*:
+***fun facts***:
 * I drew two alternate back sides to the playing card, being the *Moon* and the *Compass*!
 * ^ The *Moon* was inspired off of the background of [Cheap Suits](https://youtu.be/87i0RargAcA) and traditional tarot cards
 * ^^ The *Compass* had an original theming for being a *compass* for Highway (get it)
