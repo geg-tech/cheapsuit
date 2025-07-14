@@ -132,6 +132,16 @@ anyways here's the final pictures <br/>
 
 ## 7/14/25 - cant sleep so im finishing this github
 yeah i finished the github (its 3am i really cant be bothered to do ts rn 💔) <br/>
-might render this stuff later idk
+might render this stuff later idk <br/>
 
+I filled out the rest of the GitHub, uploading the PCB gerbers and files to the repo and writing out the README.md <br/>
+
+To calculate the costs, I went into JLCPCB and put in the card with the BOM for the assembly. I initially wanted red LEDs and all 5 of the PCBs to be assembled, but was *quickly* humbled by shipping and tax costs which shot the price well over the budget for a cheaper project ($10 + JLC coupon). <br/>
+
+In the end, I had to sacrifice the red LEDs in favor of yellow LEDs due to the red ones being part of an "external library" which added a $3 dollar fee to PCBA. I also had to cut down on the amount of assembled boards to 2 PCBA in order to stay below 30 dollars. 
+> also apparently the NFC chip in the tutorial is also part of an external library which is pretty weird; they were the most expensive component and had a $3 fee on top of that
+
+I managed to get the cost under 30, but my order history on JLCPCB is now cooked (couldn't see the tax amount until after I "ordered" it, meaning I had to cancel each attempt right after adjusting to stay under 30 dollars) <br/>
+
+anyways now I should be good for submitting :D
 ### time spent: 1 hour
