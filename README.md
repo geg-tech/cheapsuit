@@ -29,6 +29,7 @@ this hacker card also doubles as a shameless plug to my insta account lmao
 | PCBA Total | idk | $15.12 | all the other stuff that comes with PCBA; setup fee, stencil, components, etc. (why is it so damn expensive 🥀) |
 | Shipping: $9.97 | Tax: $1.79 | | |
 |**Total: $28.85**| ($9.38 with the jlc coupon) | | |
+> note: the actual PCBA BOM is located under the production folder
 
 ## Firmware
 putting this here since the firmware is literally just flashing the NFC chip and uploading with an app <br/>
@@ -55,7 +56,4 @@ Purpose: Will link to my Instagram account (@hunk.egg btw :3)
 
 * This project initially had the name of *The Hack* in my head, being named after the Balatro joker of the same name and also matching with *Hack* Club
 * ^ i then found out that this was not a poker/cards term, but instead is slang for cliche and unoriginal jokes
-
 * I hid the logos for Highway and Undercity on the back side of the card, as well as the Hack Club flag :3 
-
-> ...raising up the stakes, GET 'EM FOLDING LIKE CHEAP SUITS!
