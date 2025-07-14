@@ -127,4 +127,4 @@ anyways here's the final pictures <br/>
 <img width="574" height="592" alt="image" src="https://github.com/user-attachments/assets/11ccdfe9-7c66-4938-b542-31ec4582f9cc" />
 <img width="493" height="591" alt="image" src="https://github.com/user-attachments/assets/28d92f0c-e426-4fca-b83b-9a9f73aad261" />
 
-
+### time spent: 2 hour drawing, adding copper details, and finalizing the card
